@@ -1,0 +1,22 @@
+.feeddiv1{
+    background-image:linear-gradient(to right,rgb(203, 87, 106),white);
+    height:100vh;
+    display: grid;
+    place-items:center;
+}
+.feeddiv2{
+    height:350px;
+    border-radius:10px;
+    text-align:center;
+    display: grid;
+    place-items:center;
+}
+.emoji{
+    font-size:60px;
+}
+a:hover{
+    text-decoration:none;    
+}
+.emoji:hover{
+    font-size:65px;
+}

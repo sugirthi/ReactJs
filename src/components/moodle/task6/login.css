@@ -1,0 +1,35 @@
+.bg-color{
+    /* background-color:rgb(226, 30, 183); */
+    background-image: linear-gradient(to right,rgb(228, 9, 126), rgb(189, 11, 180));
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.centerdiv{
+    width:80%;
+    height:80%;
+    background-color:white;
+    border-radius:50px; 
+}
+.center{
+    display: grid;
+    place-items: center;
+}
+.lo_inp{
+    /* border-radius:50px; */
+    background-color:transparent;
+    border:none;
+    outline:none;
+}
+.lo_inp1{
+    border-radius:50px;
+    background-color:whitesmoke;
+    border:1px solid black;
+    outline:none;
+}
+.lo_but{
+    border-radius:50px;
+    width:250px;
+    border:none;
+}

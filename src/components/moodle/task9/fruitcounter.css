@@ -1,0 +1,19 @@
+.bg-fc{
+    background-image: linear-gradient(to right,rgb(249, 236, 54), rgb(209, 216, 141));
+    height:100vh;
+    display:grid;
+    place-items: center;
+}
+.fc-head{
+    font-size:40px;
+    text-align: center;
+}
+.b-fc{
+    width:200px;
+    font-size:30px;
+}
+.fcdiv{
+    width:300px;
+    display:grid;
+    place-items: center;
+}

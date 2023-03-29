@@ -1,0 +1,19 @@
+.hook-div{
+    display: grid;
+    place-items: center;
+    border-radius:50px;
+    border:15px groove white;
+}
+.b-hook1{
+    width:200px;
+    color:white;
+}
+.s-hook1{
+   font-size:100px;
+   color:white;
+}
+.bg-hook{
+    background-image:url('./img.jpg');
+    background-size: cover;
+    height:100vh;
+}

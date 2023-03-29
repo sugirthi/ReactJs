@@ -1,0 +1,8 @@
+.bgimg{
+    background-image:url("./congrats-card-bg.png");
+}
+.div{
+    background-color: aqua;
+    display:grid;
+    place-items:center;
+}
