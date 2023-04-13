@@ -1,0 +1,11 @@
+.fake-card{
+    border:10px solid white;
+    border-radius:20px;
+    background-color: white;
+    color:black; 
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  }
+  .fake_img{
+      margin-top:20px;
+      height:250px;
+  }
