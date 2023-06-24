@@ -1,0 +1,27 @@
+.thirukkural-card{
+    border:50px grove rgba(223, 7, 7, 0.2);
+    border-radius:3px;
+    width:100%;
+    background-image:url('https://i.pinimg.com/564x/85/f8/c4/85f8c4241e502636dd2bcf0f3c6e886e.jpg') ;
+    background-size: cover;
+    color:rgb(61, 3, 3); 
+    font-weight: bolder;
+    box-shadow: 0 5px 15px rgba(223, 7, 7, 0.2);
+    margin:20px;
+    text-align: center;
+    padding:20px;   
+  }
+  .thiruvalluvar_img
+  {
+    height:300px;
+    margin-left:80px;
+    border-radius:50%;
+    border:5px ridge  rgb(94, 30, 2) ;
+  }
+  .thirukkural-title{
+    color: rgb(94, 30, 2); 
+  }
+  .thirukkural_bg{
+    background-image:url('https://i.pinimg.com/564x/dc/42/ea/dc42ea807f1e11cc472a71d3274133af.jpg');
+    background-size: contain;
+  }
